@@ -1,0 +1,25 @@
+{
+  "name": "tyche",
+  "version": "1.0.0",
+  "description": "tyche project for generate document based on defined AST parse and processor",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "demo": "tsc && node dist/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinWu1991/tyche.git"
+  },
+  "author": "gavwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GavinWu1991/tyche/issues"
+  },
+  "homepage": "https://github.com/GavinWu1991/tyche#readme",
+  "devDependencies": {
+    "prettier": "2.0.5",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+  }
+}
